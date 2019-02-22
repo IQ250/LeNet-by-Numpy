@@ -1,2 +1,2 @@
 # LeNet-by-Numpy
-The LeNet is realized by Numpy but not by TensorFlow, MXNet, Caffe or other tools. This work is for fundamental research like optimization in neural networks.
+The LeNet is realized by Numpy but not by TensorFlow, MXNet, Caffe or other tools. This work is for fundamental research like optimization in neural networks. The MNIST data set is adopted for this code which is saved in 'data' file. Additionally, parameters during training procedure are also saved in this file, which is named 'layers_x_y' (x is #epoch, y is #iteration of #epoch). Train log is saved in 'ouput' file with name of date and time.
